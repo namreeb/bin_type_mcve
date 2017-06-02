@@ -1,0 +1,7 @@
+/.vs
+/Debug
+/target/x64/Debug
+/bin_type_mcve/obj/Debug
+/bin_type_mcve/bin/Debug
+/bin_type_mcve/obj/Release
+/target/*.user
